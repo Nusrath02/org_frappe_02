@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "itc_org_frappe"
 authors = [
-    { name = "ITChamps", email = "" }
+    { name = "ITChamps" }
 ]
 description = "ITC Org Frappe App"
 requires-python = ">=3.10"
