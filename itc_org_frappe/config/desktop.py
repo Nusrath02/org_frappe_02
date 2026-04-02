@@ -3,10 +3,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "Itc Org Frappe",
-			"color": "grey",
-			"icon": "octicon octicon-file-directory",
+			"module_name": "Org Chart",
+			"color": "blue",
+			"icon": "octicon octicon-organization",
 			"type": "module",
-			"label": _("Itc Org Frappe")
+			"label": _("Org Chart")
 		}
 	]
