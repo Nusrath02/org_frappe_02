@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include itc_org_frappe *.css
+recursive-include itc_org_frappe *.csv
+recursive-include itc_org_frappe *.html
+recursive-include itc_org_frappe *.ico
+recursive-include itc_org_frappe *.js
+recursive-include itc_org_frappe *.json
+recursive-include itc_org_frappe *.md
+recursive-include itc_org_frappe *.png
+recursive-include itc_org_frappe *.py
+recursive-include itc_org_frappe *.svg
+recursive-include itc_org_frappe *.txt
+recursive-exclude itc_org_frappe *.pyc
